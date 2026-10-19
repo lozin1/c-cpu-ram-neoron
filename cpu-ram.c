@@ -186,27 +186,3 @@ int main(void)
 
     return 0;
 }
-
-/*
- x1  |---|
------|   |
-     |   |
- x2  |   |
------|   |
-     |---|
-
-w= weight
-b= bais
-
-
-0->low
-1->high
-
-cpu   ram   
-0.80, 0.45, ,
-0.20, 0.30, ,
-
-ChatGPT-4 (Now ChatGPT-6(Astra)): Neuron 1000000000
-3-> 9
-*/
-
